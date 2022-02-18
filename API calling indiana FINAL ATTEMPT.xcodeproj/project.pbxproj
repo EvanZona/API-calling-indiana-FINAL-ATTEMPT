@@ -1,0 +1,579 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3F9956D027C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956CF27C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift */; };
+		3F9956D227C02ED500414D71 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956D127C02ED500414D71 /* ContentView.swift */; };
+		3F9956D427C02ED800414D71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F9956D327C02ED800414D71 /* Assets.xcassets */; };
+		3F9956D727C02ED900414D71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F9956D627C02ED900414D71 /* Preview Assets.xcassets */; };
+		3F9956E227C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956E127C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift */; };
+		3F9956ED27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956EC27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3F9956DE27C02ED900414D71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F9956C427C02ED400414D71 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F9956CB27C02ED500414D71;
+			remoteInfo = "API calling indiana FINAL ATTEMPT";
+		};
+		3F9956E927C02ED900414D71 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3F9956C427C02ED400414D71 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3F9956CB27C02ED500414D71;
+			remoteInfo = "API calling indiana FINAL ATTEMPT";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3F9956CC27C02ED500414D71 /* API calling indiana FINAL ATTEMPT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "API calling indiana FINAL ATTEMPT.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F9956CF27C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_calling_indiana_FINAL_ATTEMPTApp.swift; sourceTree = "<group>"; };
+		3F9956D127C02ED500414D71 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		3F9956D327C02ED800414D71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3F9956D627C02ED900414D71 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3F9956D827C02ED900414D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F9956DD27C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "API calling indiana FINAL ATTEMPTTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F9956E127C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_calling_indiana_FINAL_ATTEMPTTests.swift; sourceTree = "<group>"; };
+		3F9956E327C02ED900414D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F9956E827C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "API calling indiana FINAL ATTEMPTUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3F9956EC27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_calling_indiana_FINAL_ATTEMPTUITests.swift; sourceTree = "<group>"; };
+		3F9956EE27C02ED900414D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3F9956C927C02ED500414D71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F9956DA27C02ED900414D71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F9956E527C02ED900414D71 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3F9956C327C02ED400414D71 = {
+			isa = PBXGroup;
+			children = (
+				3F9956CE27C02ED500414D71 /* API calling indiana FINAL ATTEMPT */,
+				3F9956E027C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests */,
+				3F9956EB27C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests */,
+				3F9956CD27C02ED500414D71 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3F9956CD27C02ED500414D71 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3F9956CC27C02ED500414D71 /* API calling indiana FINAL ATTEMPT.app */,
+				3F9956DD27C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests.xctest */,
+				3F9956E827C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3F9956CE27C02ED500414D71 /* API calling indiana FINAL ATTEMPT */ = {
+			isa = PBXGroup;
+			children = (
+				3F9956CF27C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift */,
+				3F9956D127C02ED500414D71 /* ContentView.swift */,
+				3F9956D327C02ED800414D71 /* Assets.xcassets */,
+				3F9956D827C02ED900414D71 /* Info.plist */,
+				3F9956D527C02ED900414D71 /* Preview Content */,
+			);
+			path = "API calling indiana FINAL ATTEMPT";
+			sourceTree = "<group>";
+		};
+		3F9956D527C02ED900414D71 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				3F9956D627C02ED900414D71 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3F9956E027C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests */ = {
+			isa = PBXGroup;
+			children = (
+				3F9956E127C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift */,
+				3F9956E327C02ED900414D71 /* Info.plist */,
+			);
+			path = "API calling indiana FINAL ATTEMPTTests";
+			sourceTree = "<group>";
+		};
+		3F9956EB27C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3F9956EC27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift */,
+				3F9956EE27C02ED900414D71 /* Info.plist */,
+			);
+			path = "API calling indiana FINAL ATTEMPTUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3F9956CB27C02ED500414D71 /* API calling indiana FINAL ATTEMPT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F9956F127C02ED900414D71 /* Build configuration list for PBXNativeTarget "API calling indiana FINAL ATTEMPT" */;
+			buildPhases = (
+				3F9956C827C02ED500414D71 /* Sources */,
+				3F9956C927C02ED500414D71 /* Frameworks */,
+				3F9956CA27C02ED500414D71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "API calling indiana FINAL ATTEMPT";
+			productName = "API calling indiana FINAL ATTEMPT";
+			productReference = 3F9956CC27C02ED500414D71 /* API calling indiana FINAL ATTEMPT.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3F9956DC27C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F9956F427C02ED900414D71 /* Build configuration list for PBXNativeTarget "API calling indiana FINAL ATTEMPTTests" */;
+			buildPhases = (
+				3F9956D927C02ED900414D71 /* Sources */,
+				3F9956DA27C02ED900414D71 /* Frameworks */,
+				3F9956DB27C02ED900414D71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F9956DF27C02ED900414D71 /* PBXTargetDependency */,
+			);
+			name = "API calling indiana FINAL ATTEMPTTests";
+			productName = "API calling indiana FINAL ATTEMPTTests";
+			productReference = 3F9956DD27C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3F9956E727C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3F9956F727C02ED900414D71 /* Build configuration list for PBXNativeTarget "API calling indiana FINAL ATTEMPTUITests" */;
+			buildPhases = (
+				3F9956E427C02ED900414D71 /* Sources */,
+				3F9956E527C02ED900414D71 /* Frameworks */,
+				3F9956E627C02ED900414D71 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3F9956EA27C02ED900414D71 /* PBXTargetDependency */,
+			);
+			name = "API calling indiana FINAL ATTEMPTUITests";
+			productName = "API calling indiana FINAL ATTEMPTUITests";
+			productReference = 3F9956E827C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3F9956C427C02ED400414D71 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					3F9956CB27C02ED500414D71 = {
+						CreatedOnToolsVersion = 12.5.1;
+					};
+					3F9956DC27C02ED900414D71 = {
+						CreatedOnToolsVersion = 12.5.1;
+						TestTargetID = 3F9956CB27C02ED500414D71;
+					};
+					3F9956E727C02ED900414D71 = {
+						CreatedOnToolsVersion = 12.5.1;
+						TestTargetID = 3F9956CB27C02ED500414D71;
+					};
+				};
+			};
+			buildConfigurationList = 3F9956C727C02ED400414D71 /* Build configuration list for PBXProject "API calling indiana FINAL ATTEMPT" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3F9956C327C02ED400414D71;
+			productRefGroup = 3F9956CD27C02ED500414D71 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3F9956CB27C02ED500414D71 /* API calling indiana FINAL ATTEMPT */,
+				3F9956DC27C02ED900414D71 /* API calling indiana FINAL ATTEMPTTests */,
+				3F9956E727C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3F9956CA27C02ED500414D71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F9956D727C02ED900414D71 /* Preview Assets.xcassets in Resources */,
+				3F9956D427C02ED800414D71 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F9956DB27C02ED900414D71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F9956E627C02ED900414D71 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3F9956C827C02ED500414D71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F9956D227C02ED500414D71 /* ContentView.swift in Sources */,
+				3F9956D027C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F9956D927C02ED900414D71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F9956E227C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3F9956E427C02ED900414D71 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3F9956ED27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3F9956DF27C02ED900414D71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F9956CB27C02ED500414D71 /* API calling indiana FINAL ATTEMPT */;
+			targetProxy = 3F9956DE27C02ED900414D71 /* PBXContainerItemProxy */;
+		};
+		3F9956EA27C02ED900414D71 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3F9956CB27C02ED500414D71 /* API calling indiana FINAL ATTEMPT */;
+			targetProxy = 3F9956E927C02ED900414D71 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		3F9956EF27C02ED900414D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3F9956F027C02ED900414D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.5;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3F9956F227C02ED900414D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"API calling indiana FINAL ATTEMPT/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "API calling indiana FINAL ATTEMPT/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "AEY.API-calling-indiana-FINAL-ATTEMPT";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3F9956F327C02ED900414D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_ASSET_PATHS = "\"API calling indiana FINAL ATTEMPT/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "API calling indiana FINAL ATTEMPT/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "AEY.API-calling-indiana-FINAL-ATTEMPT";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3F9956F527C02ED900414D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "API calling indiana FINAL ATTEMPTTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "AEY.API-calling-indiana-FINAL-ATTEMPTTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/API calling indiana FINAL ATTEMPT.app/API calling indiana FINAL ATTEMPT";
+			};
+			name = Debug;
+		};
+		3F9956F627C02ED900414D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "API calling indiana FINAL ATTEMPTTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "AEY.API-calling-indiana-FINAL-ATTEMPTTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/API calling indiana FINAL ATTEMPT.app/API calling indiana FINAL ATTEMPT";
+			};
+			name = Release;
+		};
+		3F9956F827C02ED900414D71 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "API calling indiana FINAL ATTEMPTUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "AEY.API-calling-indiana-FINAL-ATTEMPTUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "API calling indiana FINAL ATTEMPT";
+			};
+			name = Debug;
+		};
+		3F9956F927C02ED900414D71 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "API calling indiana FINAL ATTEMPTUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "AEY.API-calling-indiana-FINAL-ATTEMPTUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "API calling indiana FINAL ATTEMPT";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3F9956C727C02ED400414D71 /* Build configuration list for PBXProject "API calling indiana FINAL ATTEMPT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F9956EF27C02ED900414D71 /* Debug */,
+				3F9956F027C02ED900414D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F9956F127C02ED900414D71 /* Build configuration list for PBXNativeTarget "API calling indiana FINAL ATTEMPT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F9956F227C02ED900414D71 /* Debug */,
+				3F9956F327C02ED900414D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F9956F427C02ED900414D71 /* Build configuration list for PBXNativeTarget "API calling indiana FINAL ATTEMPTTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F9956F527C02ED900414D71 /* Debug */,
+				3F9956F627C02ED900414D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3F9956F727C02ED900414D71 /* Build configuration list for PBXNativeTarget "API calling indiana FINAL ATTEMPTUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3F9956F827C02ED900414D71 /* Debug */,
+				3F9956F927C02ED900414D71 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3F9956C427C02ED400414D71 /* Project object */;
+}
