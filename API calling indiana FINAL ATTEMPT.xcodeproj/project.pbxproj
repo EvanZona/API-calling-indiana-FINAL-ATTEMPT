@@ -13,6 +13,7 @@
 		3F9956D727C02ED900414D71 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F9956D627C02ED900414D71 /* Preview Assets.xcassets */; };
 		3F9956E227C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956E127C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTTests.swift */; };
 		3F9956ED27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956EC27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift */; };
+		3F9956FB27C036D000414D71 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F9956FA27C036CF00414D71 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		3F9956E827C02ED900414D71 /* API calling indiana FINAL ATTEMPTUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "API calling indiana FINAL ATTEMPTUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F9956EC27C02ED900414D71 /* API_calling_indiana_FINAL_ATTEMPTUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = API_calling_indiana_FINAL_ATTEMPTUITests.swift; sourceTree = "<group>"; };
 		3F9956EE27C02ED900414D71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F9956FA27C036CF00414D71 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				3F9956CF27C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift */,
 				3F9956D127C02ED500414D71 /* ContentView.swift */,
+				3F9956FA27C036CF00414D71 /* SwiftyJSON.swift */,
 				3F9956D327C02ED800414D71 /* Assets.xcassets */,
 				3F9956D827C02ED900414D71 /* Info.plist */,
 				3F9956D527C02ED900414D71 /* Preview Content */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F9956FB27C036D000414D71 /* SwiftyJSON.swift in Sources */,
 				3F9956D227C02ED500414D71 /* ContentView.swift in Sources */,
 				3F9956D027C02ED500414D71 /* API_calling_indiana_FINAL_ATTEMPTApp.swift in Sources */,
 			);
